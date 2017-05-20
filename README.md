@@ -13,7 +13,7 @@
  By using generics                                                                                             
  List<String> list = new ArrayList<>();                                                                              
  list.add("hello generics");                                                                                                               
- String s = list.get(0);   // no cast
+ String s = list.get(0);   // no cast here
 
 it can also used to store values in key value pair  using Generic Map.
 
